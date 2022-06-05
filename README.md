@@ -1,10 +1,5 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio DIO - Recriando a página inicial do Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+## :four_leaf_clover:Instagreen :four_leaf_clover:
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+​	Neste desafio, utilizando o repositório disponibilizado como referência, procurei dar um toque pessoal de sustentabilidade afim de estimular a produção e consumo de mídia com impacto positivo ao meio ambiente.
