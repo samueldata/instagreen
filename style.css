@@ -1,4 +1,4 @@
-* {
+    * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -29,7 +29,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
+    width: 70%;
 }
 
 .instagram-phone img {
@@ -61,7 +61,7 @@ body {
 }
 
 .instagram-logo {
-    height: 3rem;
+    height: 5rem;
 }
 
 .profile-photo {
@@ -77,14 +77,14 @@ body {
 }
 
 .instagram-login {
-    background-color: #0095f6;
+    background-color:#01a34e;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
 }
 
 .instagram-logout {
-    color: #0095f6;
+    color: #01a34e;
     margin-top: 1rem;
 }
 
@@ -93,7 +93,7 @@ body {
 }
 
 .link-blue {
-    color: #0095f6;
+    color: #01a34e;
 }
 
 .get-the-app {
@@ -133,7 +133,7 @@ body {
 @media (max-width: 1024px) {
     .instagram-wrapper {
         width: 90%;
-    }
+    }   
 }
 
 @media (max-width: 650px) {
@@ -155,5 +155,14 @@ body {
     
     .group {
         border: 1px solid transparent;
+    }
+
+    .app-download:nth-child(1) {
+        object-fit: contain;
+    }
+    
+    .app-download:nth-child(2) {
+        
+        object-fit: contain;
     }
 }
